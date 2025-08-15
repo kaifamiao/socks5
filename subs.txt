@@ -1,2 +1,1 @@
-[Proxy]
-MySOCKS = socks5, 216.231.35.196, 12324, username=14aa6c75434fd, password=aca70df274
+test
